@@ -1,0 +1,617 @@
+2025-05-12 13:09:44 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x12ff37f00; archive(resolved)="<IDEArchive: 0x60008f3dd810>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600028da2f80; teamID='L4BGB43YX2', teamName='Enrico Castelli', teamType='Individual', username='enricoappstelli@gmail.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x12ff37f00; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600028da2f80; teamID='L4BGB43YX2', teamName='Enrico Castelli', teamType='Individual', username='enricoappstelli@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x15c9d69a0; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600028da2f80; teamID='L4BGB43YX2', teamName='Enrico Castelli', teamType='Individual', username='enricoappstelli@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x36bc14800; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600028da2f80; teamID='L4BGB43YX2', teamName='Enrico Castelli', teamType='Individual', username='enricoappstelli@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x36bcaa490; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600028da2f80; teamID='L4BGB43YX2', teamName='Enrico Castelli', teamType='Individual', username='enricoappstelli@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x36bc12700; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600028da2f80; teamID='L4BGB43YX2', teamName='Enrico Castelli', teamType='Individual', username='enricoappstelli@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x3692ad1e0; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600028da2f80; teamID='L4BGB43YX2', teamName='Enrico Castelli', teamType='Individual', username='enricoappstelli@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x13b09c5b0; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600028da2f80; teamID='L4BGB43YX2', teamName='Enrico Castelli', teamType='Individual', username='enricoappstelli@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x13b09c3a0; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600028da2f80; teamID='L4BGB43YX2', teamName='Enrico Castelli', teamType='Individual', username='enricoappstelli@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x344584180; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600028da2f80; teamID='L4BGB43YX2', teamName='Enrico Castelli', teamType='Individual', username='enricoappstelli@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x36d8c5820; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team="(null)">
+	<IDEDistributionContext: 0x36d81c620; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team="(null)">
+	<IDEDistributionContext: 0x36bad28b0; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team="(null)">
+	<IDEDistributionContext: 0x36970c3b0; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60000da9c550>", team="(null)">
+	<IDEDistributionContext: 0x12adc11e0; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x38dd2cd20; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x38dd18760; archive = "<IDEArchive: 0x60008f3dd810>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x12ff37f00>
+2025-05-12 13:09:44 +0000  Processing step: IDEDistributionCreateDestRootStep
+2025-05-12 13:09:44 +0000  Processing step: IDEDistributionCopyItemStep
+2025-05-12 13:09:44 +0000  Running /usr/bin/ditto '-V' '/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app' '/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app'
+2025-05-12 13:09:44 +0000  >>> Copying /Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app 
+2025-05-12 13:09:44 +0000  copying file ./_CodeSignature/CodeResources ... 
+2025-05-12 13:09:44 +0000  22112 bytes for ./_CodeSignature/CodeResources
+2025-05-12 13:09:44 +0000  copying file ./Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  855 bytes for ./Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Firebase_FirebaseCore.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  696 bytes for ./Firebase_FirebaseCore.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./gRPC_grpcppWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  817 bytes for ./gRPC_grpcppWrapper.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./gRPC_grpcppWrapper.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  689 bytes for ./gRPC_grpcppWrapper.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  598 bytes for ./GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./GTMSessionFetcher_GTMSessionFetcherCore.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  726 bytes for ./GTMSessionFetcher_GTMSessionFetcherCore.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./leveldb_leveldb.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  856 bytes for ./leveldb_leveldb.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./leveldb_leveldb.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  676 bytes for ./leveldb_leveldb.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./nanopb_nanopb.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  374 bytes for ./nanopb_nanopb.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./nanopb_nanopb.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  670 bytes for ./nanopb_nanopb.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./it.lproj/Localizable.strings ... 
+2025-05-12 13:09:44 +0000  704 bytes for ./it.lproj/Localizable.strings
+2025-05-12 13:09:44 +0000  copying file ./AppIcon60x60@2x.png ... 
+2025-05-12 13:09:44 +0000  41010 bytes for ./AppIcon60x60@2x.png
+2025-05-12 13:09:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  748 bytes for ./GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  722 bytes for ./GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2025-05-12 13:09:44 +0000  2461 bytes for ./Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2025-05-12 13:09:44 +0000  copying file ./Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2025-05-12 13:09:44 +0000  924 bytes for ./Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib
+2025-05-12 13:09:44 +0000  copying file ./Launch Screen.storyboardc/Info.plist ... 
+2025-05-12 13:09:44 +0000  258 bytes for ./Launch Screen.storyboardc/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./gRPC_grpcWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  817 bytes for ./gRPC_grpcWrapper.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./gRPC_grpcWrapper.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  685 bytes for ./gRPC_grpcWrapper.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  855 bytes for ./Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Firebase_FirebaseCoreInternal.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  712 bytes for ./Firebase_FirebaseCoreInternal.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Firebase_FirebaseAuth.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  2102 bytes for ./Firebase_FirebaseAuth.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Firebase_FirebaseAuth.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  696 bytes for ./Firebase_FirebaseAuth.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  722 bytes for ./GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  478 bytes for ./GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  734 bytes for ./GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Firebase_FirebaseFirestore.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  1105 bytes for ./Firebase_FirebaseFirestore.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Firebase_FirebaseFirestore.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  706 bytes for ./Firebase_FirebaseFirestore.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./GoogleService-Info.plist ... 
+2025-05-12 13:09:44 +0000  669 bytes for ./GoogleService-Info.plist
+2025-05-12 13:09:44 +0000  copying file ./gRPC_opensslWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  817 bytes for ./gRPC_opensslWrapper.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./gRPC_opensslWrapper.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  691 bytes for ./gRPC_opensslWrapper.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  856 bytes for ./GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  724 bytes for ./GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Assets.car ... 
+2025-05-12 13:09:44 +0000  3467775 bytes for ./Assets.car
+2025-05-12 13:09:44 +0000  copying file ./Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  478 bytes for ./Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Firebase_FirebaseCoreExtension.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  714 bytes for ./Firebase_FirebaseCoreExtension.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  855 bytes for ./GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  732 bytes for ./GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/grpcpp.framework/_CodeSignature/CodeResources ... 
+2025-05-12 13:09:44 +0000  2296 bytes for ./Frameworks/grpcpp.framework/_CodeSignature/CodeResources
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/grpcpp.framework/grpcpp ... 
+2025-05-12 13:09:44 +0000  51456 bytes for ./Frameworks/grpcpp.framework/grpcpp
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/grpcpp.framework/grpcpp.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  599 bytes for ./Frameworks/grpcpp.framework/grpcpp.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/grpcpp.framework/grpcpp.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  758 bytes for ./Frameworks/grpcpp.framework/grpcpp.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/grpcpp.framework/Info.plist ... 
+2025-05-12 13:09:44 +0000  1508 bytes for ./Frameworks/grpcpp.framework/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/_CodeSignature/CodeResources ... 
+2025-05-12 13:09:44 +0000  2404 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/_CodeSignature/CodeResources
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal ... 
+2025-05-12 13:09:44 +0000  51504 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  1105 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  814 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/FirebaseFirestoreInternal.framework/Info.plist ... 
+2025-05-12 13:09:44 +0000  1565 bytes for ./Frameworks/FirebaseFirestoreInternal.framework/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/grpc.framework/_CodeSignature/CodeResources ... 
+2025-05-12 13:09:44 +0000  2288 bytes for ./Frameworks/grpc.framework/_CodeSignature/CodeResources
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/grpc.framework/grpc ... 
+2025-05-12 13:09:44 +0000  51456 bytes for ./Frameworks/grpc.framework/grpc
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/grpc.framework/grpc.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  599 bytes for ./Frameworks/grpc.framework/grpc.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/grpc.framework/grpc.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  754 bytes for ./Frameworks/grpc.framework/grpc.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/grpc.framework/Info.plist ... 
+2025-05-12 13:09:44 +0000  1502 bytes for ./Frameworks/grpc.framework/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources ... 
+2025-05-12 13:09:44 +0000  2320 bytes for ./Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/openssl_grpc.framework/openssl_grpc ... 
+2025-05-12 13:09:44 +0000  51472 bytes for ./Frameworks/openssl_grpc.framework/openssl_grpc
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/openssl_grpc.framework/openssl_grpc.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  599 bytes for ./Frameworks/openssl_grpc.framework/openssl_grpc.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/openssl_grpc.framework/openssl_grpc.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  770 bytes for ./Frameworks/openssl_grpc.framework/openssl_grpc.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/openssl_grpc.framework/Info.plist ... 
+2025-05-12 13:09:44 +0000  1526 bytes for ./Frameworks/openssl_grpc.framework/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/absl.framework/_CodeSignature/CodeResources ... 
+2025-05-12 13:09:44 +0000  2308 bytes for ./Frameworks/absl.framework/_CodeSignature/CodeResources
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/absl.framework/absl ... 
+2025-05-12 13:09:44 +0000  51456 bytes for ./Frameworks/absl.framework/absl
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/absl.framework/xcprivacy.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  373 bytes for ./Frameworks/absl.framework/xcprivacy.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/absl.framework/xcprivacy.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  769 bytes for ./Frameworks/absl.framework/xcprivacy.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Frameworks/absl.framework/Info.plist ... 
+2025-05-12 13:09:44 +0000  1508 bytes for ./Frameworks/absl.framework/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./embedded.mobileprovision ... 
+2025-05-12 13:09:44 +0000  12494 bytes for ./embedded.mobileprovision
+2025-05-12 13:09:44 +0000  copying file ./Info.plist ... 
+2025-05-12 13:09:44 +0000  1495 bytes for ./Info.plist
+2025-05-12 13:09:44 +0000  copying file ./abseil_abslWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  380 bytes for ./abseil_abslWrapper.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./abseil_abslWrapper.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  693 bytes for ./abseil_abslWrapper.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./CalendarioCoppia ... 
+2025-05-12 13:09:44 +0000  10477424 bytes for ./CalendarioCoppia
+2025-05-12 13:09:44 +0000  copying file ./PkgInfo ... 
+8 bytes for ./PkgInfo
+copying file ./lato.ttf ... 
+2025-05-12 13:09:44 +0000  644556 bytes for ./lato.ttf
+2025-05-12 13:09:44 +0000  /usr/bin/ditto exited with 0
+2025-05-12 13:09:44 +0000  Processing step: IDEDistributionEmbedProfileStep
+2025-05-12 13:09:44 +0000  Skipping profile for item: <IDEDistributionItem: 0x60008fdde760; bundleID='org.cocoapods.FirebaseFirestoreInternal', path='<DVTFilePath:0x6000137ccf80:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fd98f00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2f40c0; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.FirebaseFirestoreInternal', executablePath='<DVTFilePath:0x60008f3c4a80:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal'>', hardenedRuntime='0'>'>
+2025-05-12 13:09:44 +0000  Skipping profile for item: <IDEDistributionItem: 0x60008fdde6a0; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x60008fc70ae0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fd9a160; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2e7840; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.absl', executablePath='<DVTFilePath:0x60008fc729a0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/absl.framework/absl'>', hardenedRuntime='0'>'>
+2025-05-12 13:09:44 +0000  Skipping profile for item: <IDEDistributionItem: 0x60008fddf4e0; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x60008fc7b9c0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fd997a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2db240; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.grpc', executablePath='<DVTFilePath:0x60008fc7b900:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpc.framework/grpc'>', hardenedRuntime='0'>'>
+2025-05-12 13:09:44 +0000  Skipping profile for item: <IDEDistributionItem: 0x60008fddf900; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x60008f3c7aa0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fddf840; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2db240; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.grpcpp', executablePath='<DVTFilePath:0x60008fc69b60:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpcpp.framework/grpcpp'>', hardenedRuntime='0'>'>
+2025-05-12 13:09:44 +0000  Skipping profile for item: <IDEDistributionItem: 0x60008fd991a0; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x60008f3c76b0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fdde640; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2db240; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.openssl-grpc', executablePath='<DVTFilePath:0x60008fc69680:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/openssl_grpc'>', hardenedRuntime='0'>'>
+2025-05-12 13:09:44 +0000  Processing step: IDEDistributionInfoPlistStep
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-05-12 13:09:44 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2025-05-12 13:09:44 +0000  Processing step: IDEDistributionSymbolsStep
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2025-05-12 13:09:44 +0000  Processing step: IDEDistributionAppThinningStep
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2025-05-12 13:09:44 +0000  Processing step: IDEDistributionArchThinningStep
+2025-05-12 13:09:44 +0000  Item /Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-05-12 13:09:44 +0000  Archs to thin for item /Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework are ["arm64e"]
+2025-05-12 13:09:44 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal' '-verify_arch' 'arm64e'
+2025-05-12 13:09:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-05-12 13:09:44 +0000  Skipping architecture thinning for item "FirebaseFirestoreInternal" because arch "arm64e" wasn't found
+2025-05-12 13:09:44 +0000  Item /Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/absl.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-05-12 13:09:44 +0000  Archs to thin for item /Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/absl.framework are ["arm64e"]
+2025-05-12 13:09:44 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/absl.framework/absl' '-verify_arch' 'arm64e'
+2025-05-12 13:09:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-05-12 13:09:44 +0000  Skipping architecture thinning for item "absl" because arch "arm64e" wasn't found
+2025-05-12 13:09:44 +0000  Item /Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpc.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-05-12 13:09:44 +0000  Archs to thin for item /Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpc.framework are ["arm64e"]
+2025-05-12 13:09:44 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/grpc.framework/grpc' '-verify_arch' 'arm64e'
+2025-05-12 13:09:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-05-12 13:09:44 +0000  Skipping architecture thinning for item "grpc" because arch "arm64e" wasn't found
+2025-05-12 13:09:44 +0000  Item /Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpcpp.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-05-12 13:09:44 +0000  Archs to thin for item /Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpcpp.framework are ["arm64e"]
+2025-05-12 13:09:44 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework/grpcpp' '-verify_arch' 'arm64e'
+2025-05-12 13:09:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-05-12 13:09:44 +0000  Skipping architecture thinning for item "grpcpp" because arch "arm64e" wasn't found
+2025-05-12 13:09:44 +0000  Item /Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/openssl_grpc.framework doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-05-12 13:09:44 +0000  Archs to thin for item /Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/openssl_grpc.framework are ["arm64e"]
+2025-05-12 13:09:44 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/openssl_grpc' '-verify_arch' 'arm64e'
+2025-05-12 13:09:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-05-12 13:09:44 +0000  Skipping architecture thinning for item "openssl_grpc" because arch "arm64e" wasn't found
+2025-05-12 13:09:44 +0000  Item /Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-05-12 13:09:44 +0000  Archs to thin for item /Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app are ["arm64e"]
+2025-05-12 13:09:44 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/CalendarioCoppia' '-verify_arch' 'arm64e'
+2025-05-12 13:09:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-05-12 13:09:44 +0000  Skipping architecture thinning for item "CalendarioCoppia" because arch "arm64e" wasn't found
+2025-05-12 13:09:44 +0000  Processing step: IDEDistributionODRStep
+2025-05-12 13:09:44 +0000  Processing step: IDEDistributionStripXattrsStep
+2025-05-12 13:09:44 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2025-05-12 13:09:44 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2025-05-12 13:09:44 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2025-05-12 13:09:44 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2025-05-12 13:09:44 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2025-05-12 13:09:44 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2025-05-12 13:09:44 +0000  Processing step: IDEDistributionCodesignStep
+2025-05-12 13:09:44 +0000  Entitlements for <IDEDistributionItem: 0x60008fdde760; bundleID='org.cocoapods.FirebaseFirestoreInternal', path='<DVTFilePath:0x6000137ccf80:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fd98f00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000ad73480; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.FirebaseFirestoreInternal', executablePath='<DVTFilePath:0x60008f3c4a80:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal'>', hardenedRuntime='0'>'>: {
+}
+2025-05-12 13:09:44 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-05-12 13:09:44 +0000  Entitlements for <IDEDistributionItem: 0x60008fdde760; bundleID='org.cocoapods.FirebaseFirestoreInternal', path='<DVTFilePath:0x6000137ccf80:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fd98f00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2e4780; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.FirebaseFirestoreInternal', executablePath='<DVTFilePath:0x60008f3c4a80:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal'>', hardenedRuntime='0'>'> are: {
+}
+2025-05-12 13:09:44 +0000  Writing entitlements for <IDEDistributionItem: 0x60008fdde760; bundleID='org.cocoapods.FirebaseFirestoreInternal', path='<DVTFilePath:0x6000137ccf80:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fd98f00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2e4780; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.FirebaseFirestoreInternal', executablePath='<DVTFilePath:0x60008f3c4a80:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal'>', hardenedRuntime='0'>'> to: /var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/entitlements~~~i81s8P
+2025-05-12 13:09:44 +0000  invoking codesign: <NSConcreteTask: 0x6000279cdc20; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    7F6523273A9D80BA54CD6F0A36AE7434A859E88D,
+    "--entitlements",
+    "/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/entitlements~~~i81s8P",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework"
+)'>
+2025-05-12 13:09:44 +0000  codesign output: /var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework: replacing existing signature
+/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.FirebaseFirestoreInternal]
+2025-05-12 13:09:44 +0000  Entitlements for <IDEDistributionItem: 0x60008fdde6a0; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x60008fc70ae0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fd9a160; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2e7840; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.absl', executablePath='<DVTFilePath:0x60008fc729a0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/absl.framework/absl'>', hardenedRuntime='0'>'>: {
+}
+2025-05-12 13:09:44 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-05-12 13:09:44 +0000  Entitlements for <IDEDistributionItem: 0x60008fdde6a0; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x60008fc70ae0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fd9a160; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000ad72040; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.absl', executablePath='<DVTFilePath:0x60008fc729a0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/absl.framework/absl'>', hardenedRuntime='0'>'> are: {
+}
+2025-05-12 13:09:44 +0000  Writing entitlements for <IDEDistributionItem: 0x60008fdde6a0; bundleID='org.cocoapods.absl', path='<DVTFilePath:0x60008fc70ae0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/absl.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fd9a160; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2e7840; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.absl', executablePath='<DVTFilePath:0x60008fc729a0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/absl.framework/absl'>', hardenedRuntime='0'>'> to: /var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/entitlements~~~Mmx2Xj
+2025-05-12 13:09:44 +0000  invoking codesign: <NSConcreteTask: 0x6000279caa80; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    7F6523273A9D80BA54CD6F0A36AE7434A859E88D,
+    "--entitlements",
+    "/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/entitlements~~~Mmx2Xj",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/absl.framework"
+)'>
+2025-05-12 13:09:44 +0000  codesign output: /var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/absl.framework: replacing existing signature
+/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/absl.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.absl]
+2025-05-12 13:09:44 +0000  Entitlements for <IDEDistributionItem: 0x60008fddf4e0; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x60008fc7b9c0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fd997a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2e7840; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.grpc', executablePath='<DVTFilePath:0x60008fc7b900:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpc.framework/grpc'>', hardenedRuntime='0'>'>: {
+}
+2025-05-12 13:09:44 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-05-12 13:09:44 +0000  Entitlements for <IDEDistributionItem: 0x60008fddf4e0; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x60008fc7b9c0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fd997a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2f70c0; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.grpc', executablePath='<DVTFilePath:0x60008fc7b900:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpc.framework/grpc'>', hardenedRuntime='0'>'> are: {
+}
+2025-05-12 13:09:44 +0000  Writing entitlements for <IDEDistributionItem: 0x60008fddf4e0; bundleID='org.cocoapods.grpc', path='<DVTFilePath:0x60008fc7b9c0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fd997a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2f70c0; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.grpc', executablePath='<DVTFilePath:0x60008fc7b900:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpc.framework/grpc'>', hardenedRuntime='0'>'> to: /var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/entitlements~~~f5iRy6
+2025-05-12 13:09:44 +0000  invoking codesign: <NSConcreteTask: 0x600027851a40; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    7F6523273A9D80BA54CD6F0A36AE7434A859E88D,
+    "--entitlements",
+    "/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/entitlements~~~f5iRy6",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/grpc.framework"
+)'>
+2025-05-12 13:09:44 +0000  codesign output: /var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/grpc.framework: replacing existing signature
+/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/grpc.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.grpc]
+2025-05-12 13:09:44 +0000  Entitlements for <IDEDistributionItem: 0x60008fddf900; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x60008f3c7aa0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fddf840; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2caf40; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.grpcpp', executablePath='<DVTFilePath:0x60008fc69b60:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpcpp.framework/grpcpp'>', hardenedRuntime='0'>'>: {
+}
+2025-05-12 13:09:44 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-05-12 13:09:44 +0000  Entitlements for <IDEDistributionItem: 0x60008fddf900; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x60008f3c7aa0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fddf840; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2caf40; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.grpcpp', executablePath='<DVTFilePath:0x60008fc69b60:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpcpp.framework/grpcpp'>', hardenedRuntime='0'>'> are: {
+}
+2025-05-12 13:09:44 +0000  Writing entitlements for <IDEDistributionItem: 0x60008fddf900; bundleID='org.cocoapods.grpcpp', path='<DVTFilePath:0x60008f3c7aa0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpcpp.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fddf840; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2caf40; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.grpcpp', executablePath='<DVTFilePath:0x60008fc69b60:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/grpcpp.framework/grpcpp'>', hardenedRuntime='0'>'> to: /var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/entitlements~~~ouqTPc
+2025-05-12 13:09:44 +0000  invoking codesign: <NSConcreteTask: 0x6000279ce6c0; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    7F6523273A9D80BA54CD6F0A36AE7434A859E88D,
+    "--entitlements",
+    "/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/entitlements~~~ouqTPc",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework"
+)'>
+2025-05-12 13:09:44 +0000  codesign output: /var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework: replacing existing signature
+/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.grpcpp]
+2025-05-12 13:09:44 +0000  Entitlements for <IDEDistributionItem: 0x60008fd991a0; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x60008f3c76b0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fdde640; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2dd2c0; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.openssl-grpc', executablePath='<DVTFilePath:0x60008fc69680:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/openssl_grpc'>', hardenedRuntime='0'>'>: {
+}
+2025-05-12 13:09:44 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-05-12 13:09:44 +0000  Entitlements for <IDEDistributionItem: 0x60008fd991a0; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x60008f3c76b0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fdde640; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2cb9c0; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.openssl-grpc', executablePath='<DVTFilePath:0x60008fc69680:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/openssl_grpc'>', hardenedRuntime='0'>'> are: {
+}
+2025-05-12 13:09:44 +0000  Writing entitlements for <IDEDistributionItem: 0x60008fd991a0; bundleID='org.cocoapods.openssl-grpc', path='<DVTFilePath:0x60008f3c76b0:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/openssl_grpc.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fdde640; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2cb9c0; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='(null)', teamID='L4BGB43YX2', identifier='org.cocoapods.openssl-grpc', executablePath='<DVTFilePath:0x60008fc69680:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/openssl_grpc'>', hardenedRuntime='0'>'> to: /var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/entitlements~~~QiVYcC
+2025-05-12 13:09:44 +0000  invoking codesign: <NSConcreteTask: 0x6000279cd4f0; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    7F6523273A9D80BA54CD6F0A36AE7434A859E88D,
+    "--entitlements",
+    "/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/entitlements~~~QiVYcC",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework"
+)'>
+2025-05-12 13:09:44 +0000  codesign output: /var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework: replacing existing signature
+/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.openssl-grpc]
+2025-05-12 13:09:44 +0000  Entitlements for <IDEDistributionItem: 0x60008fdc42a0; bundleID='ec.se.calendario', path='<DVTFilePath:0x60008f3c7250:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fddeee0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2caf40; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='{
+    "application-identifier" = "L4BGB43YX2.ec.se.calendario";
+    "com.apple.developer.associated-domains" =     (
+    );
+    "com.apple.developer.team-identifier" = L4BGB43YX2;
+    "get-task-allow" = 0;
+}', teamID='L4BGB43YX2', identifier='ec.se.calendario', executablePath='<DVTFilePath:0x60008f3d0930:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/CalendarioCoppia'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "L4BGB43YX2.ec.se.calendario";
+    "com.apple.developer.associated-domains" =     (
+    );
+    "com.apple.developer.team-identifier" = L4BGB43YX2;
+    "get-task-allow" = 0;
+}
+2025-05-12 13:09:44 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-05-12 13:09:44 +0000  Entitlements for <IDEDistributionItem: 0x60008fdc42a0; bundleID='ec.se.calendario', path='<DVTFilePath:0x60008f3c7250:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fddeee0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2caf40; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='{
+    "application-identifier" = "L4BGB43YX2.ec.se.calendario";
+    "com.apple.developer.associated-domains" =     (
+    );
+    "com.apple.developer.team-identifier" = L4BGB43YX2;
+    "get-task-allow" = 0;
+}', teamID='L4BGB43YX2', identifier='ec.se.calendario', executablePath='<DVTFilePath:0x60008f3d0930:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/CalendarioCoppia'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "L4BGB43YX2.ec.se.calendario";
+    "com.apple.developer.associated-domains" =     (
+    );
+    "com.apple.developer.team-identifier" = L4BGB43YX2;
+    "get-task-allow" = 0;
+}
+2025-05-12 13:09:44 +0000  Writing entitlements for <IDEDistributionItem: 0x60008fdc42a0; bundleID='ec.se.calendario', path='<DVTFilePath:0x60008f3c7250:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008fddeee0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000a2caf40; name='Apple Distribution: Enrico Castelli (L4BGB43YX2)', hash='7F6523273A9D80BA54CD6F0A36AE7434A859E88D', serialNumber='101B79AC9EB9EA1D44EDB6CA9E389105', certificateKinds='(
+    "1.2.840.113635.100.6.1.7",
+    "1.2.840.113635.100.6.1.4"
+), issueDate='2025-05-12 12:53:52 +0000''>', entitlements='{
+    "application-identifier" = "L4BGB43YX2.ec.se.calendario";
+    "com.apple.developer.associated-domains" =     (
+    );
+    "com.apple.developer.team-identifier" = L4BGB43YX2;
+    "get-task-allow" = 0;
+}', teamID='L4BGB43YX2', identifier='ec.se.calendario', executablePath='<DVTFilePath:0x60008f3d0930:'/Users/enrico.castelli/Library/Developer/Xcode/Archives/2025-05-12/CalendarioCoppia 12-05-25, 15.08.xcarchive/Products/Applications/CalendarioCoppia.app/CalendarioCoppia'>', hardenedRuntime='0'>'> to: /var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/entitlements~~~VkrMfH
+2025-05-12 13:09:44 +0000  invoking codesign: <NSConcreteTask: 0x600027853b10; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    7F6523273A9D80BA54CD6F0A36AE7434A859E88D,
+    "--entitlements",
+    "/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/entitlements~~~VkrMfH",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app"
+)'>
+2025-05-12 13:09:44 +0000  codesign output: /var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app: replacing existing signature
+/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app: signed app bundle with Mach-O thin (arm64) [ec.se.calendario]
+2025-05-12 13:09:44 +0000  Processing step: IDEDistributionZipODRItemStep
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-05-12 13:09:44 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-05-12 13:09:44 +0000  Processing step: IDEDistributionCreateIPAStep
+2025-05-12 13:09:44 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root' '/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Packages/CalendarioCoppia.ipa'
+2025-05-12 13:09:44 +0000  >>> Copying /var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root 
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/_CodeSignature/CodeResources ... 
+2025-05-12 13:09:44 +0000  22112 bytes for ./Payload/CalendarioCoppia.app/_CodeSignature/CodeResources
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  855 bytes for ./Payload/CalendarioCoppia.app/Firebase_FirebaseCore.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/CalendarioCoppia.app/Firebase_FirebaseCore.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  696 bytes for ./Payload/CalendarioCoppia.app/Firebase_FirebaseCore.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/gRPC_grpcppWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  817 bytes for ./Payload/CalendarioCoppia.app/gRPC_grpcppWrapper.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/gRPC_grpcppWrapper.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  689 bytes for ./Payload/CalendarioCoppia.app/gRPC_grpcppWrapper.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  598 bytes for ./Payload/CalendarioCoppia.app/GTMSessionFetcher_GTMSessionFetcherCore.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/CalendarioCoppia.app/GTMSessionFetcher_GTMSessionFetcherCore.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  726 bytes for ./Payload/CalendarioCoppia.app/GTMSessionFetcher_GTMSessionFetcherCore.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/leveldb_leveldb.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  856 bytes for ./Payload/CalendarioCoppia.app/leveldb_leveldb.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/leveldb_leveldb.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  676 bytes for ./Payload/CalendarioCoppia.app/leveldb_leveldb.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/nanopb_nanopb.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  374 bytes for ./Payload/CalendarioCoppia.app/nanopb_nanopb.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/nanopb_nanopb.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  670 bytes for ./Payload/CalendarioCoppia.app/nanopb_nanopb.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/it.lproj/Localizable.strings ... 
+2025-05-12 13:09:44 +0000  704 bytes for ./Payload/CalendarioCoppia.app/it.lproj/Localizable.strings
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/AppIcon60x60@2x.png ... 
+2025-05-12 13:09:44 +0000  41010 bytes for ./Payload/CalendarioCoppia.app/AppIcon60x60@2x.png
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  478 bytes for ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  748 bytes for ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-AppDelegateSwizzler.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  478 bytes for ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-NSData.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  722 bytes for ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-NSData.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2025-05-12 13:09:44 +0000  2461 bytes for ./Payload/CalendarioCoppia.app/Launch Screen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2025-05-12 13:09:44 +0000  924 bytes for ./Payload/CalendarioCoppia.app/Launch Screen.storyboardc/UIViewController-01J-lp-oVM.nib
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Launch Screen.storyboardc/Info.plist ... 
+2025-05-12 13:09:44 +0000  258 bytes for ./Payload/CalendarioCoppia.app/Launch Screen.storyboardc/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/gRPC_grpcWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  817 bytes for ./Payload/CalendarioCoppia.app/gRPC_grpcWrapper.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/gRPC_grpcWrapper.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  685 bytes for ./Payload/CalendarioCoppia.app/gRPC_grpcWrapper.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  855 bytes for ./Payload/CalendarioCoppia.app/Firebase_FirebaseCoreInternal.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/CalendarioCoppia.app/Firebase_FirebaseCoreInternal.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  712 bytes for ./Payload/CalendarioCoppia.app/Firebase_FirebaseCoreInternal.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Firebase_FirebaseAuth.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  2102 bytes for ./Payload/CalendarioCoppia.app/Firebase_FirebaseAuth.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Firebase_FirebaseAuth.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  696 bytes for ./Payload/CalendarioCoppia.app/Firebase_FirebaseAuth.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  478 bytes for ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Logger.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  722 bytes for ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Logger.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  478 bytes for ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  734 bytes for ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Reachability.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Firebase_FirebaseFirestore.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  1105 bytes for ./Payload/CalendarioCoppia.app/Firebase_FirebaseFirestore.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Firebase_FirebaseFirestore.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  706 bytes for ./Payload/CalendarioCoppia.app/Firebase_FirebaseFirestore.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/GoogleService-Info.plist ... 
+2025-05-12 13:09:44 +0000  669 bytes for ./Payload/CalendarioCoppia.app/GoogleService-Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/gRPC_opensslWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  817 bytes for ./Payload/CalendarioCoppia.app/gRPC_opensslWrapper.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/gRPC_opensslWrapper.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  691 bytes for ./Payload/CalendarioCoppia.app/gRPC_opensslWrapper.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  856 bytes for ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Network.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  724 bytes for ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Network.bundle/Info.plist
+copying file ./Payload/CalendarioCoppia.app/Assets.car ... 
+2025-05-12 13:09:44 +0000  3467775 bytes for ./Payload/CalendarioCoppia.app/Assets.car
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy ... 
+478 bytes for ./Payload/CalendarioCoppia.app/Firebase_FirebaseCoreExtension.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/CalendarioCoppia.app/Firebase_FirebaseCoreExtension.bundle/Info.plist ... 
+714 bytes for ./Payload/CalendarioCoppia.app/Firebase_FirebaseCoreExtension.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  855 bytes for ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Environment.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  732 bytes for ./Payload/CalendarioCoppia.app/GoogleUtilities_GoogleUtilities-Environment.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework/_CodeSignature/CodeResources ... 
+2025-05-12 13:09:44 +0000  2296 bytes for ./Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework/_CodeSignature/CodeResources
+copying file ./Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework/grpcpp ... 
+2025-05-12 13:09:44 +0000  51456 bytes for ./Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework/grpcpp
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework/grpcpp.bundle/PrivacyInfo.xcprivacy ... 
+599 bytes for ./Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework/grpcpp.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework/grpcpp.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  758 bytes for ./Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework/grpcpp.bundle/Info.plist
+copying file ./Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework/Info.plist ... 
+2025-05-12 13:09:44 +0000  1508 bytes for ./Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/_CodeSignature/CodeResources ... 
+2025-05-12 13:09:44 +0000  2404 bytes for ./Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/_CodeSignature/CodeResources
+copying file ./Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal ... 
+2025-05-12 13:09:44 +0000  51504 bytes for ./Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  1105 bytes for ./Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  814 bytes for ./Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/FirebaseFirestoreInternal_Privacy.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/Info.plist ... 
+2025-05-12 13:09:44 +0000  1565 bytes for ./Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/grpc.framework/_CodeSignature/CodeResources ... 
+2025-05-12 13:09:44 +0000  2288 bytes for ./Payload/CalendarioCoppia.app/Frameworks/grpc.framework/_CodeSignature/CodeResources
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/grpc.framework/grpc ... 
+2025-05-12 13:09:44 +0000  51456 bytes for ./Payload/CalendarioCoppia.app/Frameworks/grpc.framework/grpc
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/grpc.framework/grpc.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  599 bytes for ./Payload/CalendarioCoppia.app/Frameworks/grpc.framework/grpc.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/grpc.framework/grpc.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  754 bytes for ./Payload/CalendarioCoppia.app/Frameworks/grpc.framework/grpc.bundle/Info.plist
+copying file ./Payload/CalendarioCoppia.app/Frameworks/grpc.framework/Info.plist ... 
+2025-05-12 13:09:44 +0000  1502 bytes for ./Payload/CalendarioCoppia.app/Frameworks/grpc.framework/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources ... 
+2025-05-12 13:09:44 +0000  2320 bytes for ./Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/_CodeSignature/CodeResources
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/openssl_grpc ... 
+2025-05-12 13:09:44 +0000  51472 bytes for ./Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/openssl_grpc
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/openssl_grpc.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  599 bytes for ./Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/openssl_grpc.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/openssl_grpc.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  770 bytes for ./Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/openssl_grpc.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/Info.plist ... 
+2025-05-12 13:09:44 +0000  1526 bytes for ./Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/absl.framework/_CodeSignature/CodeResources ... 
+2025-05-12 13:09:44 +0000  2308 bytes for ./Payload/CalendarioCoppia.app/Frameworks/absl.framework/_CodeSignature/CodeResources
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/absl.framework/absl ... 
+2025-05-12 13:09:44 +0000  51456 bytes for ./Payload/CalendarioCoppia.app/Frameworks/absl.framework/absl
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/absl.framework/xcprivacy.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  373 bytes for ./Payload/CalendarioCoppia.app/Frameworks/absl.framework/xcprivacy.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/CalendarioCoppia.app/Frameworks/absl.framework/xcprivacy.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  769 bytes for ./Payload/CalendarioCoppia.app/Frameworks/absl.framework/xcprivacy.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Frameworks/absl.framework/Info.plist ... 
+2025-05-12 13:09:44 +0000  1508 bytes for ./Payload/CalendarioCoppia.app/Frameworks/absl.framework/Info.plist
+copying file ./Payload/CalendarioCoppia.app/embedded.mobileprovision ... 
+2025-05-12 13:09:44 +0000  17221 bytes for ./Payload/CalendarioCoppia.app/embedded.mobileprovision
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/Info.plist ... 
+2025-05-12 13:09:44 +0000  1495 bytes for ./Payload/CalendarioCoppia.app/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/abseil_abslWrapper.bundle/PrivacyInfo.xcprivacy ... 
+2025-05-12 13:09:44 +0000  380 bytes for ./Payload/CalendarioCoppia.app/abseil_abslWrapper.bundle/PrivacyInfo.xcprivacy
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/abseil_abslWrapper.bundle/Info.plist ... 
+2025-05-12 13:09:44 +0000  693 bytes for ./Payload/CalendarioCoppia.app/abseil_abslWrapper.bundle/Info.plist
+2025-05-12 13:09:44 +0000  copying file ./Payload/CalendarioCoppia.app/CalendarioCoppia ... 
+2025-05-12 13:09:45 +0000  10477424 bytes for ./Payload/CalendarioCoppia.app/CalendarioCoppia
+2025-05-12 13:09:45 +0000  copying file ./Payload/CalendarioCoppia.app/PkgInfo ... 
+8 bytes for ./Payload/CalendarioCoppia.app/PkgInfo
+copying file ./Payload/CalendarioCoppia.app/lato.ttf ... 
+2025-05-12 13:09:45 +0000  644556 bytes for ./Payload/CalendarioCoppia.app/lato.ttf
+2025-05-12 13:09:45 +0000  /usr/bin/ditto exited with 0
+2025-05-12 13:09:45 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2025-05-12 13:09:45 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2025-05-12 13:09:45 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2025-05-12 13:09:45 +0000  IDEDistributionItem init <DVTFilePath:0x60008b14e840:'/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/grpcpp.framework'>
+2025-05-12 13:09:45 +0000  IDEDistributionItem init <DVTFilePath:0x6000136afa00:'/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/FirebaseFirestoreInternal.framework'>
+2025-05-12 13:09:45 +0000  IDEDistributionItem init <DVTFilePath:0x60008fcdf4e0:'/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/absl.framework'>
+2025-05-12 13:09:45 +0000  IDEDistributionItem init <DVTFilePath:0x60008fdddfe0:'/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/grpc.framework'>
+2025-05-12 13:09:45 +0000  IDEDistributionItem init <DVTFilePath:0x60008b14dab0:'/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app/Frameworks/openssl_grpc.framework'>
+2025-05-12 13:09:45 +0000  IDEDistributionItem init <DVTFilePath:0x60008f3d2fb0:'/var/folders/sq/c_n78n095xv6g8v8pp97gwd96xj_mx/T/XcodeDistPipeline.~~~Cn1dvj/Root/Payload/CalendarioCoppia.app'>
+2025-05-12 13:09:45 +0000  Processing step: IDEDistributionCreateManifestStep
